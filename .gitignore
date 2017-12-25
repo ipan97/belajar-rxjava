@@ -1,3 +1,11 @@
+#Intellij Idea
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+
 # From https://github.com/github/gitignore/blob/master/Gradle.gitignore
 .gradle
 /build/
@@ -53,6 +61,7 @@ hs_err_pid*
 # Gradle:
 .idea/gradle.xml
 .idea/libraries
+.gradle/*
 
 # Mongo Explorer plugin:
 .idea/mongoSettings.xml
