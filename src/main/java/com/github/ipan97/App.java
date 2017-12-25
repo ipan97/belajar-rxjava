@@ -8,4 +8,8 @@ package com.github.ipan97;
  * Package PACKAGE_NAME
  */
 public class App {
+
+    public static void main(String[] args) {
+
+    }
 }
